@@ -10,3 +10,6 @@ It is the physical layout of devices and cables to form a connected network scal
 ## Logical topologies
 
 It is the transmission of data over physical topology. how data transmit over OSI/TCP/IP model.
+
+## Access point
+Access point is device which transmit wireless signal
