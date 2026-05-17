@@ -23,6 +23,6 @@ It monitor:
    - Send ip related information to generate the message for example if device is failed
    - Is device is running or down
 4. CISCO Descovery Protocol
-  - Identifying what all cisco device connected to us
-  - Cisco device discover and we determine their how they are configure
-  - we allow the system to use different layer protocol to learn about each error
+   - Identifying what all cisco device connected to us
+   - Cisco device discover and we determine their how they are configure
+   - we allow the system to use different layer protocol to learn about each error
