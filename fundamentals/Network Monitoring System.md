@@ -19,3 +19,10 @@ It monitor:
    - Status of devices and what configuration device are running with call and response
 2. Tracert
    - It use to trace the route of traffic moving from one hop to another
+3. ICMP
+   - Send ip related information to generate the message for example if device is failed
+   - Is device is running or down
+4. CISCO Descovery Protocol
+  - Identifying what all cisco device connected to us
+  - Cisco device discover and we determine their how they are configure
+  - we allow the system to use different layer protocol to learn about each error
